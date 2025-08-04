@@ -18,7 +18,7 @@ function Header( { sidebarCollapsed, onToggleSidebar }) {
             <h1 className="text-2xl font-black text-slate-800 dark:text-white">
               Dashboard
             </h1>
-            <p className="dark:text-white">Welcome back, Alex! here's what's happening today</p>
+            <p className="dark:text-white">Welcome back, Bankey! here's what's happening today</p>
           </div>
         </div>
 
@@ -68,7 +68,7 @@ function Header( { sidebarCollapsed, onToggleSidebar }) {
             className="w-8 h-8 rounded-full ring-2 ring-blue-500"/>
             <div className="hidden md:block">
               <p className="text-sm font-medium text-slate-500 dark:text-slate-400">
-                Alex Johnson
+                Bankey J_son
               </p>
               <p className="text-xs text-slate-500 dark:text-slate-400">
                 Administrator

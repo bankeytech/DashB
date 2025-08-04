@@ -105,7 +105,7 @@ function Sidebar( {collapsed, onToggle, currentPage, onPageChange} ) {
          { !collapsed && (
           <div>
             <h1 className="text-xl font-bold text-slate-800 dark:text-white">
-              Nexus
+              Gizmo
             </h1>
             <p className="text-xs text-slate-500 dark:text-slate-400 ">
               Admin Panel
@@ -195,7 +195,7 @@ function Sidebar( {collapsed, onToggle, currentPage, onPageChange} ) {
                 <div className="flex-1 min-w-0">
                   <div className="flex-1 min-w-0">
                     <p className="text-sm font-medium text-slate-800 dark:text-white truncate">
-                      ALex Johnson
+                      Bankey J_son
                     </p>
                     <p className="text-xs text-slate-500 dark:text-slate-400 truncate">
                       Administrator
