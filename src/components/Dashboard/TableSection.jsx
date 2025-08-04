@@ -124,7 +124,7 @@ function TableSection() {
                   return (
                     <tr className="border-b border-slate-200/50 dark:border-slate-700/50 hover:bg-slate-50/50 dark:hover:bg-slate-800/50 transition-colors">
                   <td className="p-4" key={index}>
-                    <span className="text-sm font-medium text-blue">
+                    <span className="text-sm font-medium text-blue dark:text-white">
                      {order.id}
                     </span>
                   </td>

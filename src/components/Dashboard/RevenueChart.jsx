@@ -78,7 +78,7 @@ function RevenueChart() {
             />
             <Tooltip 
               contentStyle={{
-                backgroundColor: "rgba(255, 255, 255 0.95)",
+                backgroundColor: "rgba(255, 255, 255, 0.95)",
                 border:"none",
                 borderRadius: "12px",
                 boxShadow: "0 10px 40px rgba(0, 0, 0, 0.1)",

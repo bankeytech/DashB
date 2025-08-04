@@ -65,7 +65,7 @@ function ActivityFeed() {
               Recent System Activities
             </p>
          </div>
-         <button className='text-blue hover:text-blue-700 text-sm font-medium'>
+         <button className='text-blue hover:text-blue-700 text-sm font-medium dark:text-white'>
             View All
          </button>
        </div>
